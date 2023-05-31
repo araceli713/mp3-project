@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  text-align:center;
+  font-family ='Fuzzy Bubbles';
+  cursive;
+
+}
+
+.ctr-img {
+  width: 100%; 
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+}
+
+.trivia-box{
+  border: 5px solid #000;
+  border-radius: 5%;
+  padding:10 px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+.p{
+  text-align:center;
+  
+}
